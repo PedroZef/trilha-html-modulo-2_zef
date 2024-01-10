@@ -71,4 +71,6 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 
 Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
 
+A proposta do desafio foi de montar uma página em HTML e usar as tags de forma semântica. Apesar que não foi mencionado o uso de css. Porém, tomei a liberdade de usar a fim de deixá-la mais atrativa.
+
 Bora pra cima!
