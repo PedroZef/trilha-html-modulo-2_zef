@@ -1,6 +1,8 @@
-html, body {
+html,
+body {
     margin: 0;
 }
+
 body {
     background-color: #f1f1f1;
     display: flex;
@@ -13,20 +15,28 @@ body {
     margin: 0 auto;
     background-color: aquamarine;
 }
+
 .main {
     display: flex;
     flex-flow: column;
     width: 85%;
 }
+
 .menu {
     width: 15%;
     background-color: aqua;
     padding: 10px 20px 0px;
+    text-align: center;
 }
+
 .header {
     background-color: rgb(50, 173, 87);
     min-height: 150px;
+    color: white;
+    text-align: center;
+    padding: 1rem;
 }
+
 .content {
     background-color: white;
     margin: 10px;
@@ -36,11 +46,22 @@ body {
 }
 
 .table {
-  
+
     border: 1px solid black;
     border-collapse: collapse;
-  }
+}
+
+.th,
+td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+
 .footer {
-    background-color: rgb(99, 56, 240);
+    padding: 60px 0 60px 0;
+    text-align: center;
+    background-color: rgb(199, 195, 186);
     min-height: 150px;
+    margin-top: 96px;
 }
