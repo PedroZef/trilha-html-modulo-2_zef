@@ -24,14 +24,22 @@ body {
     padding: 10px 20px 0px;
 }
 .header {
-    background-color: rgb(5, 108, 108);
+    background-color: rgb(50, 173, 87);
     min-height: 150px;
 }
 .content {
     background-color: white;
+    margin: 10px;
     min-height: 300px;
     padding: 20px;
+    text-align: justify;
 }
+
+.table {
+  
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
 .footer {
     background-color: rgb(99, 56, 240);
     min-height: 150px;
